@@ -1,5 +1,7 @@
 {
-    "name": "Staking Operator",
-    "description": "We aim to contribute to the development of Blockchain and Web3.",
-    "logo": "https://img.imgyukle.com/2023/11/17/ySKYcb.png"
-  }
+ "name": "Staking Operator",
+  "website": "https://www.example.com",
+     "description": "We aim to contribute to the development of Blockchain and Web3.",
+  "logo": "https://img.imgyukle.com/2023/11/17/ySKYcb.png",
+  "twitter": "https://twitter.com/FigoX0"
+}
